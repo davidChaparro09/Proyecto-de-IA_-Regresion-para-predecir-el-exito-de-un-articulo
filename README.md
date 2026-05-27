@@ -49,4 +49,4 @@ A lo largo de las entregas del proyecto se desarrollaron y compararon las siguie
 
 Puedes ver la explicación detallada del proceso, las gráficas obtenidas (matrices de correlación, curvas de error, dispersión de predicciones y clústeres de DBSCAN) y las conclusiones de negocio en nuestro video de YouTube:
 
-🔗 **[Ver Video de Sustentación en YouTube](https://www.youtube.com/)**
+🔗 **[Ver Video de Sustentación en YouTube]([https://www.youtube.com/](https://youtu.be/J_ZBdu1DYOc))**
