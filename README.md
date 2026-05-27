@@ -1,10 +1,6 @@
-# Análisis Predictivo y Segmentación de Catálogos de E-Commerce
+# Proyecto de Inteligencia Artificial
 
-## Integrantes
-* David Alberto Chaparro  - codigo: 2221939
-* Luis Esneidher Chaparro - codigo: 2210041
-
----
+![Banner del Proyecto](banner.png)
 
 ## Objetivos del Proyecto
 
